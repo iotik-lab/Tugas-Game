@@ -1,0 +1,9 @@
+/Library
+/Temp
+/UserSettings
+
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+.gradle/
